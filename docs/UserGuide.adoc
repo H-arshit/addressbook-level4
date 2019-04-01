@@ -134,6 +134,12 @@ Edits the remark for the first person to Likes to drink coffee.
 remark 1 r/
 Removes the remark for the first person.
 
+=== Adding another Command : sort [ coming in v2.0]
+* Sort command 
+Sort by contact name n in increasing/decreasing alphabetical order
+
+Example: sort n increasing
+Displays the contact list sorted by name in forward alphabetical order.
 === Deleting a person : `delete`
 
 Deletes the specified person from the address book. +
