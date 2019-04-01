@@ -7,13 +7,12 @@
 
 
 
-
 == Project Team
 
 
 
 === Sharad Kochhar
-image::__Users__Guest__Temp__18 2.jpg.jpg[width="150", align="left"]
+image::sharadPhoto.png[width="150", align="left"]
 {empty}[https://github.com/sharadk1234[github]] [<<Sharad Kochhar#, portfolio>>]
 
 Role: Team Lead +
