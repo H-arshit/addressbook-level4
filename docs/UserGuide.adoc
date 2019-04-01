@@ -39,7 +39,7 @@ e.g. typing *`help`* and pressing kbd:[Enter] will open the help window.
 * *`exit`* : exits the app
 
 .  Refer to <<Features>> for details of each command.
-. Refer to <<3.6>> for details of each command.
+. Refer to <<Features 3.6>> for details of each command.
 
 [[Features]]
 == Features
