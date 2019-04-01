@@ -1,4 +1,4 @@
-= AddressBook Level 4 - User Guide
+= AddressbookApp- User Guide
 :site-section: UserGuide
 :toc:
 :toc-title:
@@ -12,13 +12,13 @@ ifdef::env-github[]
 :tip-caption: :bulb:
 :note-caption: :information_source:
 endif::[]
-:repoURL: https://github.com/se-edu/addressbook-level4
+:repoURL: https://github.com/sharadk1234/addressbook-level4.git
 
 By: `Team SE-EDU`      Since: `Jun 2016`      Licence: `MIT`
 
 == Introduction
 
-AddressBook Level 4 (AB4) is for those who *prefer to use a desktop app for managing contacts*. More importantly, AB4 is *optimized for those who prefer to work with a Command Line Interface* (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, AB4 can get your contact management tasks done faster than traditional GUI apps. Interested? Jump to the <<Quick Start>> to get started. Enjoy!
+AddressbokkApp is for those who *prefer to use a desktop app for managing contacts*. More importantly, AddressbookApp is *optimized for those who prefer to work with a Command Line Interface* (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, AB4 can get your contact management tasks done faster than traditional GUI apps. Interested? Jump to the <<Quick Start>> to get started. Enjoy!. If you can type fast, this product can help you manage all your contact and property information quickly and securely. Interested? Jump to <<Quick Start>> to get started. Enjoy!
 
 == Quick Start
 
