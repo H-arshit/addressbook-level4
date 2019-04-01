@@ -11,9 +11,9 @@
 
 
 
-=== Sharad Kochhar
-image::/Users/sharad/Desktop/sharadPhoto.png[width="150", align="left"]
-{empty}[https://github.com/sharadk1234[github]] [<<Sharad Kochhar#, portfolio>>]
+=== Sharad Kochhar.
+image::https://avatars1.githubusercontent.com/u/46094697?s=400&u=f61f2b0749b8455b880405b74638742dae4744e7&v=4[width="150", align="left"]
+{empty}[https://github.csharadPhoto.pngom/sharadk1234[github]] [<<Sharad Kochhar#, portfolio>>]
 
 Role: Team Lead +
 Responsibilities: Sort Command and Remark Command
