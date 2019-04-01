@@ -140,6 +140,8 @@ Sort by contact name n in increasing/decreasing alphabetical order
 
 Example: sort n increasing
 Displays the contact list sorted by name in forward alphabetical order.
+
+
 === Deleting a person : `delete`
 
 Deletes the specified person from the address book. +
