@@ -1,4 +1,4 @@
-= AddressBook Level 4 - Developer Guide
+= AddressbookApp - Developer Guide
 :site-section: DeveloperGuide
 :toc:
 :toc-title:
@@ -15,7 +15,7 @@ ifdef::env-github[]
 endif::[]
 :repoURL: https://github.com/se-edu/addressbook-level4/tree/master
 
-By: `Team SE-EDU`      Since: `Jun 2016`      Licence: `MIT`
+By: `sharadk1234`      Since: `March 2019`      Licence: `MIT`
 
 == Setting up
 
