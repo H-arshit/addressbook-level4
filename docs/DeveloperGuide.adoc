@@ -803,8 +803,8 @@ We now have everything set up... but we still can't modify the remarks. Let's fi
 . Update `RemarkCommandTest` to test that the `execute()` logic works.
 
 === More Details on implentation of Remark Command
-# Adapted EditCommand's code to RemarkCommand in /logic/commands
-    Added `PREFIX_REMARK` to CliSyntax.java
+   Adapted EditCommand's code to RemarkCommand in /logic/commands
+   Added `PREFIX_REMARK` to CliSyntax.java
     [Adapted Address's code to Remark in /model/person]     -- tweaks remain (handle blank input)
         > Import Remark in RemarkCommand
     Added `Remark remark` to Person.java
