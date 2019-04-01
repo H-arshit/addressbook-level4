@@ -16,11 +16,8 @@ endif::[]
 
 * This is an Address Book application intended for Real Estate Agents.
 *  It is a desktop-based application with a GUI, but most of the user interactions happen using a CLI (Command Line Interface).
-* It is *written in OOP fashion*. It provides a *reasonably well-written* code example that is *significantly bigger* (around 6 KLoC)than what students usually write in beginner-level SE modules.
-* What's different from https://github.com/se-edu/addressbook-level3[level 3]:
-** A more sophisticated GUI that includes a list  panel and an in-built Browser.
-** More test cases, including automated GUI testing.
-** Support for _Build Automation_ using Gradle and for _Continuous Integration_ using Travis CI.
+*  is *written in OOP fashion*. It provides a *reasonably well-written* code example that is *significantly bigger* (around 6 KLoCIt)than what students usually write in beginner-level SE modules.
+* AddressbookApp basically have to two extra features - Remark Command which adds an extra attributes to the person field and a Sort Command.
 
 == Site Map
 
