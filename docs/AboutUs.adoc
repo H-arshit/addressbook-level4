@@ -12,7 +12,7 @@
 
 
 === Sharad Kochhar
-image::/Users/sharad/Desktop/sharadPhoto.png[width="150", align="left"]
+image::SharadPhoto.png[width="150", align="left"]
 {empty}[https://github.com/sharadk1234[github]] [<<Sharad Kochhar#, portfolio>>]
 
 Role: Team Lead +
