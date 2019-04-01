@@ -134,6 +134,14 @@ Edits the remark for the first person to Likes to drink coffee.
 remark 1 r/
 Removes the remark for the first person.
 
+=== Adding another Command : sort [ coming in v2.0]
+* Sort command 
+Sort by contact name n in increasing/decreasing alphabetical order
+
+Example: sort n increasing
+Displays the contact list sorted by name in forward alphabetical order.
+
+
 === Deleting a person : `delete`
 
 Deletes the specified person from the address book. +
@@ -252,7 +260,7 @@ Address book data are saved in the hard disk automatically after any command tha
 There is no need to save manually.
 
 // tag::dataencryption[]
-=== Encrypting data files `[coming in v2.0]`
+=== Encrpted data files and password protection for the user.
 
 _{explain how the user can enable/disable data encryption}_
 // end::dataencryption[]

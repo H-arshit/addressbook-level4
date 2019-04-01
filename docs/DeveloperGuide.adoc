@@ -1,4 +1,4 @@
-= AddressBook Level 4 - Developer Guide
+= AddressbookApp - Developer Guide
 :site-section: DeveloperGuide
 :toc:
 :toc-title:
@@ -15,7 +15,7 @@ ifdef::env-github[]
 endif::[]
 :repoURL: https://github.com/se-edu/addressbook-level4/tree/master
 
-By: `Team SE-EDU`      Since: `Jun 2016`      Licence: `MIT`
+By: `sharadk1234`      Since: `March 2019`      Licence: `MIT`
 
 == Setting up
 
@@ -802,6 +802,28 @@ We now have everything set up... but we still can't modify the remarks. Let's fi
 
 . Update `RemarkCommandTest` to test that the `execute()` logic works.
 
+=== More Details on implentation of Remark Command
+   Adapted EditCommand's code to RemarkCommand in /logic/commands
+   Added `PREFIX_REMARK` to CliSyntax.java
+    [Adapted Address's code to Remark in /model/person]     -- tweaks remain (handle blank input)
+        > Import Remark in RemarkCommand
+    Added `Remark remark` to Person.java
+    [Adapted isAnyFieldEdited() to isRemarkEdited() in RemarkCommand]
+    [Adapted EditCommandParser's code to RemarkCommandParser in /logic/parser]      -- tweaks required (remove extra )
+    Added `parseRemark()` to ParserUtil.java
+    Added usage of `RemarkCommandParser` to AddressBoookParser.java
+
+    [Updated Person's attributes with remark in EditCommand]
+    [Updated Person's attributes with remark in AddCommandParser]
+        [Sample remark data added to SampleDataUtil]
+    [Updated Person's attributes with remark in JasonAdaptedPerson]
+    Now in PersonBuilder, addded PersonBuilder withRemark (unused as of now)
+
+    Error removed from --
+        JsonAdaptedPersonTest
+        PersonListPanelTest
+        Addressbook.json in /data/
+
 ==== Full Solution
 
 See this https://github.com/se-edu/addressbook-level4/pull/599[PR] for the step-by-step solution.
@@ -834,6 +856,8 @@ Priorities: High (must have) - `* * \*`, Medium (nice to have) - `* \*`, Low (un
 |`* * *` |user |delete a person |remove entries that I no longer need
 
 |`* * *` |user |find a person by name |locate details of persons without having to go through the entire list
+
+|`* * *` |real estate agent | add a remark  | wanted to highlight something useful
 
 |`* *` |user |hide <<private-contact-detail,private contact details>> by default |minimize chance of someone else seeing them by accident
 

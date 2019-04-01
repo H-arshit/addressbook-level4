@@ -28,6 +28,7 @@ endif::[]
 * <<ContactUs#, Contact Us>>
 
 == Acknowledgements
+*The original source of the code (AddressBook-Level4) was created by the SE-EDU initiative.
 
 * Some parts of this sample application were inspired by the excellent http://code.makery.ch/library/javafx-8-tutorial/[Java FX tutorial] by
 _Marco Jakob_.
