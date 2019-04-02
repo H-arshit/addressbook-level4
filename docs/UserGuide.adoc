@@ -40,6 +40,7 @@ e.g. typing *`help`* and pressing kbd:[Enter] will open the help window.
 
 .  Refer to <<Features>> for details of each command.
 . Refer to <<Features 3.6>> for details of remark command.
+. Refer to <<Feature 3.8>> for detail about password encryption feature [will be in v2.0]
 
 [[Features]]
 == Features
@@ -265,6 +266,7 @@ There is no need to save manually.
 
 _{explain how the user can enable/disable data encryption}_
 // end::dataencryption[]
+
 
 == FAQ
 
