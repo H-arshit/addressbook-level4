@@ -798,11 +798,11 @@ We now have everything set up... but we still can't modify the remarks. Let's fi
 
 . Replace the logic in `RemarkCommand#execute()` (that currently just throws an `Exception`), with the actual logic to modify the remarks of a person.
 .RemarkCommand logic and Model Component
-image:: LogicModel.png [width="600"]
+
 **Tests:**
 
 . Update `RemarkCommandTest` to test that the `execute()` logic works.
-
+image:: LogicModel.png [width="800"]
 === More Details on implentation of Remark Command
    Adapted EditCommand's code to RemarkCommand in /logic/commands
    Added `PREFIX_REMARK` to CliSyntax.java
